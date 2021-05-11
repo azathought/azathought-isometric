@@ -5,6 +5,10 @@ Install using the module's manifest file locaton:
 
 For full information on playing in isometric check out my [landing page](http://www.azathought.com/isometric/)
 
+This Foundry VTT content module is dependent on version 0.0.16 of [grape_juice-isometrics](https://foundryvtt.com/packages/grape_juice-isometrics) and is meant to be played on Foundry VTT 0.7.9
+
+**Massive thanks to Grape Juice** who has made playing in isometric possilbe: [grape_juice patreon](https://www.patreon.com/foundry_grape_juice/posts)
+
 Currently contains 
 * [Isometic Pack 1: 64 px Isometric Template](http://www.azathought.com/isometric-pack-1/)
 * [Isometic Pack 4: Lava Monastery](http://www.azathought.com/isometric-pack-4/)
