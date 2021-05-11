@@ -7,6 +7,7 @@ For full information on playing in isometric check out my [landing page](http://
 
 Currently contains 
 * [Isometic Pack 1: 64 px Isometric Template](http://www.azathought.com/isometric-pack-1/)
+* [Isometic Pack 4: Lava Monastery](http://www.azathought.com/isometric-pack-4/)
 * [Isometic Pack 5: Cathedral of Knowledge](http://www.azathought.com/isometric-pack-5/)
 
 
@@ -20,5 +21,10 @@ Alternatively, I grant the right for online commercial broadcast and replay with
 Note my content is a fan work which may contain Wizards of the Coast IP and is shared following the rules of the Wizards of the Coast Fan Content Policy: https://company.wizards.com/fancontentpolicy
 
 Attributions:
+* Androsphinx model is by [mz4250](https://www.shapeways.com/product/QNSXTEVEV/androsphinx)
+* Skull pillar Candle Holder is CC BY-NC-SA 4.0 by [AgentPothead](https://www.thingiverse.com/thing:4460691)
+* D&D Cathedral Railing is CC BY-SA 3.0 by [Firestryfe](https://www.thingiverse.com/thing:807548)
+* Fantasy Throne is CC0 1.0 by [bendasie](https://www.thingiverse.com/thing:3332572)
+* Adventurer's Camp - Tents are CC BY 4.0 by [ecaroth](https://www.thingiverse.com/thing:2653284)
 * Aboleth model is by [mz4250](https://www.shapeways.com/product/TPHKAP4XJ/aboleth)
 * OpenForge 2.0 tiles are CC BY-SA 3.0 by [devonjones](https://www.thingiverse.com/devonjones/collections/openforge-2-dungeon-stone-series)
