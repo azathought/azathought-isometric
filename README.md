@@ -1,6 +1,13 @@
-# Work in Progress
+# Azathought Isometric
 
-now to test working in a branch
+Install using the module's manifest file locaton:
+> https://raw.githubusercontent.com/azathought/azathought-isometric/master/module.json
+
+For full information on playing in isometric check out my [landing page](http://www.azathought.com/isometric/)
+
+Currently contains 
+* [Isometic Pack 1: 64 px Isometric Template](/isometric-pack-1/)
+* [Isometic Pack 5: Cathedral of Knowledge](/isometric-pack-5/)
 
 
 ## Dual License info
@@ -13,4 +20,5 @@ Alternatively, I grant the right for online commercial broadcast and replay with
 Note my content is a fan work which may contain Wizards of the Coast IP and is shared following the rules of the Wizards of the Coast Fan Content Policy: https://company.wizards.com/fancontentpolicy
 
 Attributions:
-* 
+* Aboleth model is by [mz4250](https://www.shapeways.com/product/TPHKAP4XJ/aboleth)
+* OpenForge 2.0 tiles are CC BY-SA 3.0 by [devonjones](https://www.thingiverse.com/devonjones/collections/openforge-2-dungeon-stone-series)
