@@ -3,7 +3,7 @@
     "title": "azathought-isometric",   
     "description": "FoundryVTT Isometric Content",   
     "author": "azathought",
-    "version": "0.0.6",
+    "version": "0.0.7",
     "minimumCoreVersion": "0.7.9",
     "compatibleCoreVersion":"0.7.9",
     "packs": [
@@ -23,6 +23,6 @@
       }
    ],
    "manifest": "https://raw.githubusercontent.com/azathought/azathought-isometric/master/module.json",
-   "download": "https://github.com/azathought/azathought-isometric/archive/refs/tags/0.0.6.zip"
+   "download": "https://github.com/azathought/azathought-isometric/archive/refs/tags/0.0.7.zip"
   }
  
