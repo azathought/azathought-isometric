@@ -6,8 +6,8 @@ Install using the module's manifest file locaton:
 For full information on playing in isometric check out my [landing page](http://www.azathought.com/isometric/)
 
 Currently contains 
-* [Isometic Pack 1: 64 px Isometric Template](/isometric-pack-1/)
-* [Isometic Pack 5: Cathedral of Knowledge](/isometric-pack-5/)
+* [Isometic Pack 1: 64 px Isometric Template](http://www.azathought.com/isometric-pack-1/)
+* [Isometic Pack 5: Cathedral of Knowledge](http://www.azathought.com/isometric-pack-5/)
 
 
 ## Dual License info
