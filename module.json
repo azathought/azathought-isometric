@@ -1,0 +1,26 @@
+{   
+    "name": "azathought-isometric",   
+    "title": "azathought-isometric",   
+    "description": "FoundryVTT Isometric Content",   
+    "author": "azathought",
+    "version": "0.0.1",
+    "minimumCoreVersion": "0.7.9",
+    "compatibleCoreVersion":"0.7.9",
+    "packs": [
+      {
+        "name": "AzathoughtTokens",
+        "label": "AzathoughtTokens",
+        "path": "packs/azathought-tokens.db",
+        "entity": "Actor",
+        "module": "azathought-isometric"
+      },
+      {
+       "name": "AzathoughtScenes",
+       "label": "AzathoughtScenes",
+       "path": "packs/azathought-scenes.db",
+       "entity": "Scene", 
+       "module": "azathought-isometric"
+      }
+   ]
+  }
+ 
