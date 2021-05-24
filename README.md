@@ -15,7 +15,7 @@ This Foundry VTT content module is dependent on version 0.0.16 of [grape_juice-i
 Currently contains 
 * [Isometic Pack 1: 64 px Isometric Template](http://www.azathought.com/isometric-pack-1/)
 * [Isometic Pack 4: Lava Monastery](http://www.azathought.com/isometric-pack-4/)
-* [Isometic Pack 5: Cathedral of Knowledge](http://www.azathought.com/isometric-pack-5/)
+* [Isometic Pack 6: Cathedral of Knowledge](http://www.azathought.com/isometric-pack-5/)
 
 
 ## Dual License info
